@@ -3,7 +3,7 @@ I'm Joy Nwaiwu from Nigeria, an Environmental biologist, Python developer, techn
 - 🌱 I’m currently learning how to improve my writing skills.
 - 👯 I’m looking to collaborate on exciting projects.
 - 📫 How to reach me: [@JoyNwaiwu2](https://twitter.com/JoyNwaiwu2?s=08)
-- ⚡ Fun fact: I'm Awesome!
+- ⚡ Fun fact: I'm Awesome! 😁
 
 Check out my Blog [here](https://joynwaiwu.hashnode.dev/)
 
